@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> NYC Coffee-Drinking </title>
+</head>
+<body style="background-color: #f4e5d1;">
+
+    <header>
+        <h1>Coffee in New York City</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2 style="color: rgb(112, 65, 8);">Where the Coffee-Drinking Happens</h2>
+            <p>If I ever visit <strong>NYC</strong> I want to have proper coffee.<br> I searched online and found this coffee shops (click to visit their websites):</p>
+            
+            <ul>
+                <li><a href="https://www.littlecollinsnyc.com"><strong>Little Collins</strong> </a> <br>  -> Stylish, warm, cafe dishing up breakfast, <br> pastries, sandwiches & salads, plus afternoon options.</li>
+                <li><a href="https://www.bibbleandsip.com"><strong>Bibble & Sip</strong> </a><br>  -> Bakery & coffeehouse serving upscale coffees, <br> teas & a selection of housemade baked goods & syrups.</li>
+                <li><a href="https://us.lacabra.com/pages/east-village"><strong>La Cabra Bakery</strong></a><br> -> A modern coffee company born out of Denmark.<br>  Aimed to capture the moments to slow down.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2 style="color: rgb(112, 65, 8);">Gallery</h2>
+            
+            <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?q=80&w=1522&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            alt=" Coffee beans close up - Coffee beans have such a nice color" style="width: 90%;">
+            <img src="https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+            alt="Capucino foam art - They told me coffee art started in Italy" style="width: 90%;">
+            <img src="https://images.unsplash.com/photo-1559496417-e7f25cb247f3?q=80&w=928&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+            alt="spresso in a small class - Iconic spresso shot" style="width: 90%;">
+        </section>
+
+        <section>
+            <h2 style= "color: rgb(112, 65, 8)" >More?</h2>
+            <p>I think coffee is amazing because:</p>
+            <nav>
+                <ul>
+                      <li>Is bitter, like life </li>
+                      <li>Wakes you up in the morning</li>
+                      <li>Is the best moment of the day</li>
+                </ul>
+            </nav>
+        </section>
+    </main>
+     <br>  <br>  <br>  <br> 
+
+    <footer>
+        <p> 2026 Coursera Web Dev Learning, final HTML project</p>
+    </footer>
+
+</body>
+</html>
